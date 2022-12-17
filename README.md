@@ -1,6 +1,17 @@
 <div>
+    <a href="https://www.notion.so/HAN-DA-YEON-efa8574152db4d51ab71fa228f23af6f" target="_blank">
+      <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+    </a>
+    <img src="https://img.shields.io/badge/hdy78901@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+    <a href="https://handa.tistory.com" target="_blank">
+      <img src="https://img.shields.io/badge/Blog-F7DF1E?style=flat-square&logo=Tistory&logoColor=white"/>
+    </a>
+  <p></p>
+</div>
+
+<div>
   👋 Hi there! I'm <b>backend developer</b> using Spring.☘️<br>
-  I am an IT developer who grows and develops passionately than anyone else.❤️‍🔥
+  <p>I am an IT developer who grows and develops <b>passionately</b> than anyone else.❤️‍🔥</p>
 <div>
   
 <h3>💪 Skills</h3>
