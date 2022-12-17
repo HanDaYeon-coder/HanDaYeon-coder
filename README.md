@@ -30,4 +30,7 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white"/>
+    <p></p>
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanDaYeon-coder&show_icons=true&theme=graywhite)
