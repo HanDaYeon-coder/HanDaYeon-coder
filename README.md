@@ -3,8 +3,8 @@
       <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
     </a>
     <img src="https://img.shields.io/badge/hdy78901@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
-    <a href="https://handa.tistory.com" target="_blank">
-      <img src="https://img.shields.io/badge/Blog-F7DF1E?style=flat-square&logo=Tistory&logoColor=white"/>
+    <a href="https://velog.io/@da_na" target="_blank">
+      <img src="https://img.shields.io/badge/Blog-F7DF1E?style=flat-square&logo=Velog&logoColor=white"/>
     </a>
   <p></p>
 </div>
